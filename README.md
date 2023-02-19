@@ -214,7 +214,7 @@ more information.</td>
 <h3>Insert<a class="headerlink" href="#insert" title="Permalink to this headline">¶</a></h3>
 <p>The following table presents the various SQL statements related to
 inserting records into tables and the corresponding MongoDB statements.</p>
-<table border="1" class="docutils">
+<table border="1" class="docutils"  align="center" >
 <colgroup>
 <col width="30%">
 <col width="31%">
