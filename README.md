@@ -1,5 +1,5 @@
 # Comparision-MongoDB-SQL
-Comparision MongoDB / SQL
+<h1 align="center">Comparision MongoDB / SQL</h1>
 <div class="section" id="sql-to-mongodb-mapping-chart">
 <h1 align="center">SQL to MongoDB Mapping Chart<a class="headerlink" href="#sql-to-mongodb-mapping-chart" title="Permalink to this headline">¶</a></h1>
 <p>In addition to the charts that follow, you might want to consider the
