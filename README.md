@@ -8,7 +8,7 @@
 <h2>Executables<a class="headerlink" href="#executables" title="Permalink to this headline">¶</a></h2>
 <p>The following table presents the MySQL/Oracle executables and the
 corresponding MongoDB executables.</p>
-<table border="1" class="docutils">
+<table border="1" class="docutils" align="center">
 <colgroup>
 <col width="25%">
 <col width="22%">
