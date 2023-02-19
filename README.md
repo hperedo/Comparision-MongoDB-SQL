@@ -1,7 +1,7 @@
 # Comparision-MongoDB-SQL
 Comparision MongoDB / SQL
 <div class="section" id="sql-to-mongodb-mapping-chart">
-<h1 style=text-align: center>SQL to MongoDB Mapping Chart<a class="headerlink" href="#sql-to-mongodb-mapping-chart" title="Permalink to this headline">¶</a></h1>
+<h1 align="center">SQL to MongoDB Mapping Chart<a class="headerlink" href="#sql-to-mongodb-mapping-chart" title="Permalink to this headline">¶</a></h1>
 <p>In addition to the charts that follow, you might want to consider the
 <a class="reference internal" href="../../faq/"><em>Frequently Asked Questions</em></a> section for a selection of common questions about MongoDB.</p>
 <div class="section" id="executables">
