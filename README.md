@@ -618,7 +618,7 @@ for more information.</td>
 <p>The following table presents the various SQL statements related to
 updating existing records in tables and the corresponding MongoDB
 statements.</p>
-<table border="1" class="docutils">
+<table border="1" class="docutils" align="center">
 <colgroup>
 <col width="21%">
 <col width="32%">
@@ -674,7 +674,7 @@ information.</td>
 <h3>Delete Records<a class="headerlink" href="#delete-records" title="Permalink to this headline">¶</a></h3>
 <p>The following table presents the various SQL statements related to
 deleting records from tables and the corresponding MongoDB statements.</p>
-<table border="1" class="docutils">
+<table border="1" class="docutils" align="center">
 <colgroup>
 <col width="21%">
 <col width="35%">
